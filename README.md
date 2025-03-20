@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub Profile
 
-<!--
-**jonejola1/jonejola1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Hi! I'm a Fullstack developer who loves working with python and next.js. I'm always excited to learn new technologies and contribute to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on a big personal DB project
+- 🌱 Learning: React and ASP.NET core
+
+## 🛠️ Current Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,nextjs,python,docker)
+
+----
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonejola1&layout=compact&theme=dark)
