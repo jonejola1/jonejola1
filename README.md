@@ -9,7 +9,7 @@ Hi! I'm a Fullstack developer who loves working with python and next.js.
 
 ## 🛠️ Current Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,nextjs,python,docker,,,,cpp,cs)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,nextjs,python,docker,,cpp,cs)
 
 ----
 
