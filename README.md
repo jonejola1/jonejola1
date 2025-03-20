@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-Hi! I'm a Fullstack developer who loves working with python and next.js. I'm always excited to learn new technologies and contribute to open-source projects.
+Hi! I'm a Fullstack developer who loves working with python and next.js.
 
-- 🔭 Currently working on a big personal DB project
+- 🔭 Currently working on a large personal project
 - 🌱 Learning: React and ASP.NET core
 
 ## 🛠️ Current Tech Stack
