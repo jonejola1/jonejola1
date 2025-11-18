@@ -4,7 +4,7 @@
 
 Hi! I'm a Fullstack developer who loves working with python and next.js.
 
-- 🔭 Currently working on a large personal project
+- 🔭 Currently working on a personal project
 - 🌱 Learning: React and ASP.NET core
 
 ## 🛠️ Current Tech Stack
